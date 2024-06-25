@@ -29,5 +29,10 @@ Yahong Chen, Changhong Deng*, Yating Zhao
 
 ## Schorships and Honors
 - 2022 National Scholarship(Highest scholarship awarded by the Chinese government, <0.1%)  
+- 2021 Excellent Academic Scholarship at Wuhan University
+- 2021 Outstanding Postgraduate of Wuhan University
+- 2020 Outstanding Graduate of Wuhan University 
 - 2019 Ultra High Voltage Scholarship(funded by the State Grid Corporation of China, <1%)
+
+
 
