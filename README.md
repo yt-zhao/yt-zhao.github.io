@@ -28,8 +28,10 @@ Yahong Chen, Changhong Deng*, Yating Zhao
 2021
 
 ## Research experience
-#### Triggered lightning on 10 kV double circuit distribution line in Guangzhou, China	2019-2021  
+#### Lightning Overvoltage Protection Characteristics of 10 kV Distribution Lines, 2022-2023
 #### Research on the transformer fault in 500 kV substation in Pakistan, China	2021-2022
+#### Triggered lightning on 10 kV double circuit distribution line in Guangzhou, China	2019-2021  
+
 
 ## Competitions
 #### “CSEE Cup” 2022 National Electrical Math Modeling Competition, First Prize  
@@ -42,8 +44,7 @@ Secondary modeling of air quality prediction
 Trajectory model of unmanned vehicle entering track based on nonlinear programming
 #### “CSEE Cup” 2021 National Electrical Math Modeling Competition, Second Prize
 Data analysis and equivalent modeling of high-speed railway traction power supply system
-
-
+#### The 10th Chinese Mathematics Competition of Chinese College Student, First Prize 
 
 ## Schorships and Honors
 - 2022 National Scholarship(Highest scholarship awarded by the Chinese government, <0.1%)  
