@@ -4,10 +4,8 @@ I received my Master's degree and Bachelor's degree in electrical engineering at
 
 ---
 ## Publications
-[Induced voltage at the closest pole on parallel line due to direct triggered lightning on 10 kV double circuit distribution line](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/gtd2.12706)
-
-Yating Zhao, Jianguo Wang*, Li Cai, Quanxin Li, Yuqian Fang, Rui Su, Shoupeng Wang, Mi Zhou
-
+[Induced voltage at the closest pole on parallel line due to direct triggered lightning on 10 kV double circuit distribution line](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/gtd2.12706)  
+Yating Zhao, Jianguo Wang*, Li Cai, Quanxin Li, Yuqian Fang, Rui Su, Shoupeng Wang, Mi Zhou  
 2023
 
 [Observation of Overvoltage at the Terminal of 10kV Distribution Line by Direct Triggered Lightning](https://ieeexplore.ieee.org/document/9627792)
