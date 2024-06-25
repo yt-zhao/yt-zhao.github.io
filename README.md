@@ -28,6 +28,6 @@ Yahong Chen, Changhong Deng*, Yating Zhao
 2021
 
 ## Schorships and Honors
-·2022 National Scholarship(Highest scholarship awarded by the Chinese government, <0.1%)
-·2019 Ultra High Voltage Scholarship(funded by the State Grid Corporation of China, <1%)
+· 2022 National Scholarship(Highest scholarship awarded by the Chinese government, <0.1%)  
+· 2019 Ultra High Voltage Scholarship(funded by the State Grid Corporation of China, <1%)
 
