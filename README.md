@@ -2,6 +2,9 @@
 ## Education
 I received my Master's degree and Bachelor's degree in electrical engineering at Wuhan University.
 
+## Research interest
+Optimization, Power System, Electricity Market.
+
 ---
 ## Publications
 [Induced voltage at the closest pole on parallel line due to direct triggered lightning on 10 kV double circuit distribution line](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/gtd2.12706)  
