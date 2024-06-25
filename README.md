@@ -34,5 +34,9 @@ Yahong Chen, Changhong Deng*, Yating Zhao
 - 2020 Outstanding Graduate of Wuhan University 
 - 2019 Ultra High Voltage Scholarship(funded by the State Grid Corporation of China, <1%)
 
+## Research experience
+###Triggered lightning on 10 kV double circuit distribution line in Guangzhou, China	2019-2021
+
+
 
 
