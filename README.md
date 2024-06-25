@@ -1,7 +1,5 @@
-# Yating Zhao
-## Education
-I received my Master's degree and Bachelor's degree in electrical engineering at Wuhan University.
-
+# Yating Zhao  
+I received my Master's degree and Bachelor's degree in electrical engineering at Wuhan University.  
 ## Research interest
 Optimization, Power System, Electricity Market.
 
