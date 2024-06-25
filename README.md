@@ -14,10 +14,14 @@ Jianguo Wang, Yating Zhao, Yuquan Fang, Li Cai*, Shoupeng Wang, Zhiling Xu, Si C
 
 [Induced voltage at two poles of 10kV parallel distribution line caused by direct lightning strike on the phase wire of adjacent line.](https://www.sciencedirect.com/science/article/abs/pii/S0378779622004242)
 
+Yating Zhao, Jianguo Wang*, Li Cai, Quanxin Li, Mi Zhou, Rui Su, Zhiling Xu, Yadong Fan
+
 [Three-phase overvoltage at lightning strike point due to direct triggered lightning to the phase wire of 10 kV power distribution line](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/gtd2.12432)
+
+Jianguo Wang, Yating Zhao, Li Cai*, Yuqian Fang, Quanxin Li, Rui Su, Shoupeng Wang, Mi Zhou
 
 [Coordination Control Between Excitation and Hydraulic System During Mode Conversion of Variable Speed Pumped Storage Unit, IEEE Transactions on Power Electronics](https://ieeexplore.ieee.org/document/9361129)
 
-
+Yahong Chen, Changhong Deng*, Yating Zhao
 
 ## Schorships and Honors
