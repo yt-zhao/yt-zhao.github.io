@@ -20,7 +20,7 @@ Yating Zhao, Jianguo Wang*, Li Cai, Quanxin Li, Mi Zhou, Rui Su, Zhiling Xu, Yad
 
 Jianguo Wang, Yating Zhao, Li Cai*, Yuqian Fang, Quanxin Li, Rui Su, Shoupeng Wang, Mi Zhou
 
-[Coordination Control Between Excitation and Hydraulic System During Mode Conversion of Variable Speed Pumped Storage Unit, IEEE Transactions on Power Electronics](https://ieeexplore.ieee.org/document/9361129)
+[Coordination Control Between Excitation and Hydraulic System During Mode Conversion of Variable Speed Pumped Storage Unit](https://ieeexplore.ieee.org/document/9361129)
 
 Yahong Chen, Changhong Deng*, Yating Zhao
 
