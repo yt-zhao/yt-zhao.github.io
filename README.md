@@ -34,13 +34,13 @@ Yahong Chen, Changhong Deng*, Yating Zhao
 ## Competitions
 #### “CSEE Cup” 2022 National Electrical Math Modeling Competition, First Prize  
 Analysis on energy storage configuration of power systems with large amount of wind power
-### “Mathorcup” The 12th National University Math Modeling Challenge, Second Prize
+#### “Mathorcup” The 12th National University Math Modeling Challenge, Second Prize
 Binary fingerprint feature retrieval algorithm based on small range search
-### “Huawei Cup” The 18th China Post-Graduate Mathematical Contest in Modeling, Second Prize	2021
+#### “Huawei Cup” The 18th China Post-Graduate Mathematical Contest in Modeling, Second Prize	2021
 Secondary modeling of air quality prediction
-### “Mathorcup” The 11th National University Math Modeling Challenge, Second Prize
+#### “Mathorcup” The 11th National University Math Modeling Challenge, Second Prize
 Trajectory model of unmanned vehicle entering track based on nonlinear programming
-### “CSEE Cup” 2021 National Electrical Math Modeling Competition, Second Prize
+#### “CSEE Cup” 2021 National Electrical Math Modeling Competition, Second Prize
 Data analysis and equivalent modeling of high-speed railway traction power supply system
 
 
