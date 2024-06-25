@@ -54,8 +54,8 @@ Data analysis and equivalent modeling of high-speed railway traction power suppl
 - 2019 Ultra High Voltage Scholarship(funded by the State Grid Corporation of China, <1%)
 
 ## Skills 
-#### proficient Matlab, Origin, Visio, Lingo, SPSS, EMTP
-#### familiar C, Python, Ansoft
+#### proficient Matlab, Origin, Visio, Lingo, SPSS, EMTP  
+#### familiar C, Python, Ansoft  
 #### IELTS total 7.5(R:9 L:7 S:7.5 W:7)
 
 
