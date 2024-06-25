@@ -32,7 +32,7 @@ Yahong Chen, Changhong Deng*, Yating Zhao
 #### Research on the transformer fault in 500 kV substation in Pakistan, China	2021-2022
 
 ## Competitions
-### “CSEE Cup” 2022 National Electrical Math Modeling Competition, First Prize
+#### “CSEE Cup” 2022 National Electrical Math Modeling Competition, First Prize  
 Analysis on energy storage configuration of power systems with large amount of wind power
 ### “Mathorcup” The 12th National University Math Modeling Challenge, Second Prize
 Binary fingerprint feature retrieval algorithm based on small range search
