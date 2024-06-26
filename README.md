@@ -4,7 +4,7 @@ I received my Master's degree and Bachelor's degree in electrical engineering at
 Optimization, Power System, Electricity Market.
 
 ## Publications
-[Induced voltage at the closest pole on parallel line due to direct triggered lightning on 10 kV double circuit distribution line](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/gtd2.12706)  
+#### [Induced voltage at the closest pole on parallel line due to direct triggered lightning on 10 kV double circuit distribution line](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/gtd2.12706)  
 Yating Zhao, Jianguo Wang*, Li Cai, Quanxin Li, Yuqian Fang, Rui Su, Shoupeng Wang, Mi Zhou  
 2023 IET Gener. Transm. Distrib  
 [pdf](./Induced%20voltage%20at%20the%20closest%20pole%20on%20parallel%20line%20due%20to%20direct%20triggered%20lightning%20on%2010%20kV%20double%20circuit%20distribution%20line.pdf)
