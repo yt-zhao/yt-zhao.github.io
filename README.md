@@ -6,24 +6,24 @@ Optimization, Power System, Electricity Market.
 ## Publications
 [Induced voltage at the closest pole on parallel line due to direct triggered lightning on 10 kV double circuit distribution line](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/gtd2.12706)  
 Yating Zhao, Jianguo Wang*, Li Cai, Quanxin Li, Yuqian Fang, Rui Su, Shoupeng Wang, Mi Zhou  
-2023
+2023 IET Gener. Transm. Distrib
 
 [Observation of Overvoltage at the Terminal of 10kV Distribution Line by Direct Triggered Lightning](https://ieeexplore.ieee.org/document/9627792)  
 Jianguo Wang, Yating Zhao, Yuquan Fang, Li Cai*, Shoupeng Wang, Zhiling Xu, Si Cheng  
-2022
+2022 IEEE Transactions on Power Delivery
 
 
 [Induced voltage at two poles of 10kV parallel distribution line caused by direct lightning strike on the phase wire of adjacent line.](https://www.sciencedirect.com/science/article/abs/pii/S0378779622004242)  
 Yating Zhao, Jianguo Wang*, Li Cai, Quanxin Li, Mi Zhou, Rui Su, Zhiling Xu, Yadong Fan  
-2022
+2022 Electric Power System Research
 
 [Three-phase overvoltage at lightning strike point due to direct triggered lightning to the phase wire of 10 kV power distribution line](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/gtd2.12432)  
 Jianguo Wang, Yating Zhao, Li Cai*, Yuqian Fang, Quanxin Li, Rui Su, Shoupeng Wang, Mi Zhou  
-2022
+2022 IET Gener. Transm. Distrib
 
 [Coordination Control Between Excitation and Hydraulic System During Mode Conversion of Variable Speed Pumped Storage Unit](https://ieeexplore.ieee.org/document/9361129)  
 Yahong Chen, Changhong Deng*, Yating Zhao  
-2021
+2021 IEEE Transactions on Power Electronics
 
 ## Research experience
 #### Lightning Overvoltage Protection Characteristics of 10 kV Distribution Lines, 2022-2023
