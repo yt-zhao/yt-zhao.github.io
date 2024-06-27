@@ -13,7 +13,7 @@ Yating Zhao, Jianguo Wang*, Li Cai, Quanxin Li, Yuqian Fang, Rui Su, Shoupeng Wa
 Jianguo Wang, Yating Zhao, Yuquan Fang, Li Cai*, Shoupeng Wang, Zhiling Xu, Si Cheng  
 2022 IEEE Transactions on Power Delivery  
 **[pdf](/Observation%20of%20Overvoltage%20at%20the%20Terminal%20of%2010%20kV%20Distribution%20Line%20by%20Direct%20Triggered%20Lightning.pdf)**
-
+![induced voltage]()
 **[Induced voltage at two poles of 10kV parallel distribution line caused by direct lightning strike on the phase wire of adjacent line.](https://www.sciencedirect.com/science/article/abs/pii/S0378779622004242)**  
 Yating Zhao, Jianguo Wang*, Li Cai, Quanxin Li, Mi Zhou, Rui Su, Zhiling Xu, Yadong Fan  
 2022 Electric Power System Research  
