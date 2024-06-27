@@ -1,5 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+
+  
 # Yating Zhao  
-I received my Master's degree and Bachelor's degree in electrical engineering at Wuhan University.  
+<span class="large-font">I received my Master's degree and Bachelor's degree in electrical engineering at Wuhan University.  
 ## Research interest
 Optimization, Power System, Electricity Market.
 
@@ -59,6 +69,9 @@ Data analysis and equivalent modeling of high-speed railway traction power suppl
 #### proficient Matlab, Origin, Visio, Lingo, SPSS, EMTP  
 #### familiar C, Python, Ansoft  
 #### IELTS total 7.5(R:9 L:7 S:7.5 W:7)
+
+</body>
+<html>
 
 
 
