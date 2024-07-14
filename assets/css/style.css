@@ -3,7 +3,9 @@ body {
   background: white;
   color: black;
   text-align: left;
-
+a {
+  text-decoration: none;
+}
  .link{
   font-family:"BlinkMacSystemFont", sans-serif;
   font-size:18px;
