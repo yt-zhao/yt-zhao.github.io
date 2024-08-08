@@ -19,8 +19,7 @@ a {
 }
 @font-face {
     font-family: 'Linux Libertine';
-    src: url('path-to-font/LinuxLibertine-Regular.woff2') format('woff2'),
-         url('path-to-font/LinuxLibertine-Regular.woff') format('woff');
+    src: url('assets/css/LinLibertine_R.ttf') format('ttf'),
     font-weight: normal;
     font-style: normal;
 }
